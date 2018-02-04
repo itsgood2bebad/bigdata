@@ -16,5 +16,6 @@ ensuite  :
 -vous tapez select * from vente; ( le ";" est important l'oublier pas)
 
 
-C'est la 1ere étape ,la 2 etapes consistera a rassemblé les 3 bases de donnés (en cours)
+C'est la 1ere étape ,la 2 etapes j'ai récupéré la sortie pour le mettre dans un fichier python bd.py afin de le traité (1seule db )
+pour le traitement de la base de donnée . 
 
